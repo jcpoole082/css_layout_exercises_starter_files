@@ -1,0 +1,23 @@
+
+main
+{margin: auto;
+ width: 800px;
+ height: 500px;
+border: 1px solid black;}
+
+.green
+{width: 50%;
+height: 200px;
+background-color: green;}
+
+.grey
+{width: 33.3%;
+height: 300px;
+background-color: grey;}
+
+
+
+
+
+
+
